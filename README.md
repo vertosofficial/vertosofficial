@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vertosofficial
+- 🌱 I’m currently learning C++
+- You can reach me on instagram @vertosofficial
